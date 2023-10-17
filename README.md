@@ -1,1 +1,1 @@
-# predictive-analysis-course1
+This is a repository.
