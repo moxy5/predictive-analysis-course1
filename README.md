@@ -4,7 +4,7 @@ This repository consists of code for the Predictive Analysis course at [SAIT](ht
 
 ## Unit 1 - Introduction to R
 ## Assignment 1 - Working with Dataframes
-(https://github.com/moxy5/predictive-analysis-course1/blob/main/Assignment1.R)
+[click here](https://github.com/moxy5/predictive-analysis-course1/blob/main/Assignment1.R)
 - Variables
 - Vectors
 - Factors
