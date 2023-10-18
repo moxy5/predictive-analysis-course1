@@ -6,5 +6,5 @@ This repository consists of code for the Predictive Analysis course at [SAIT](ht
 ## Unit 1 - Introduction to R
 ## Assignment 1 - Working with Dataframes
 - Variables
-- VectorS
-- FactorS
+- Vectors
+- Factors
