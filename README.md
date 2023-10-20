@@ -8,3 +8,5 @@ This repository consists of code for the Predictive Analysis course at [SAIT](ht
 - Variables
 - Vectors
 - Factors
+- ## Assignment 2 - Data Wrangling with R
+[click here](https://github.com/moxy5/predictive-analysis-course1/blob/main/Titanic%20Assignment_2.R)
